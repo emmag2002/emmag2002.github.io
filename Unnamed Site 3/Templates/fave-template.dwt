@@ -23,8 +23,8 @@
         <ul class="navbar-nav mr-auto">
           <li class="nav-item"> <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a> </li>
           <li class="nav-item"><a href="event.html">Event</a></li>
-          <li class="nav-item"><a href="untitled-1*">Research</a></li>
-			<li class="nav-item"><a href="untitled-2">Brands</a></li>
+          <li class="nav-item"><a href="research-link.html" class="align-bottom"> Research</a></li>
+			<li class="nav-item"><a href="brands-link.html">Brands</a></li>
         </ul>
       </div>
     </div>
